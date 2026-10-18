@@ -48,7 +48,12 @@ The simulated employee's domain access was restored. The issue was documented an
 - Jira Service Management ticket documentation
 
 ## Evidence
-Screenshots documenting the troubleshooting and resolution process will be added below.
+![Failed Windows login](screenshots/01-failed-login.png)
+
+![Active Directory password reset](screenshots/02-password-reset.png)
+
+![Successful domain authentication](screenshots/03-login-verification.png)
+  
 
 ## Lab Disclaimer
 This ticket represents a simulated support scenario performed in a personal IT homelab. No production user accounts were affected.
