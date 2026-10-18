@@ -37,7 +37,7 @@ The lab uses Windows Server 2025 and Windows 11 virtual machines connected throu
 ## Help Desk Ticket Documentation
 | Ticket | Scenario | Status |
 |---|---|---|
-| HD-001 | Active Directory Password Reset | Completed — documentation pending |
+| [HD-001](tickets/HD-001-password-reset/README.md) | Active Directory Password Reset | Completed |
 
 Each ticket will include the reported issue, troubleshooting process, resolution, verification, and supporting screenshots.
 
